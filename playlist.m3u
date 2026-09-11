@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Al Jazeera" tvg-logo="https://via.placeholder.com/150x150?text=Al+Jazeera" group-title="قنوات عربية",Al Jazeera
+http://example.com/aljazeera.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="MBC 1" tvg-logo="https://via.placeholder.com/150x150?text=MBC+1" group-title="قنوات عربية",MBC 1
+http://example.com/mbc1.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Rotana Cinema" tvg-logo="https://via.placeholder.com/150x150?text=Rotana" group-title="قنوات عربية",Rotana Cinema
+http://example.com/rotana.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Spacetoon" tvg-logo="https://via.placeholder.com/150x150?text=Spacetoon" group-title="قنوات عربية",Spacetoon
+http://example.com/spacetoon.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Art Aflam" tvg-logo="https://via.placeholder.com/150x150?text=Art+Aflam" group-title="قنوات عربية",Art Aflam
+http://example.com/art-aflam.m3u8
+
+# === القنوات العالمية === #
+
+#EXTINF:-1 tvg-id="6" tvg-name="BBC" tvg-logo="https://via.placeholder.com/150x150?text=BBC" group-title="International",BBC
+http://example.com/bbc.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="BBC HD" tvg-logo="https://via.placeholder.com/150x150?text=BBC+HD" group-title="International",BBC HD
+http://example.com/bbc-hd.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CNN" tvg-logo="https://via.placeholder.com/150x150?text=CNN" group-title="International",CNN
+http://example.com/cnn.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CNN HD" tvg-logo="https://via.placeholder.com/150x150?text=CNN+HD" group-title="International",CNN HD
+http://example.com/cnn-hd.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="France 24" tvg-logo="https://via.placeholder.com/150x150?text=France+24" group-title="International",France 24
+http://example.com/france24.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="Euronews" tvg-logo="https://via.placeholder.com/150x150?text=Euronews" group-title="International",Euronews
+http://example.com/euronews.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="DW" tvg-logo="https://via.placeholder.com/150x150?text=DW" group-title="International",DW (Deutsche Welle)
+http://example.com/dw.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="NHK World" tvg-logo="https://via.placeholder.com/150x150?text=NHK" group-title="International",NHK World
+http://example.com/nhk-world.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Russia Today" tvg-logo="https://via.placeholder.com/150x150?text=RT" group-title="International",Russia Today (RT)
+http://example.com/rt.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="Al Arabiya" tvg-logo="https://via.placeholder.com/150x150?text=Al+Arabiya" group-title="International",Al Arabiya
+http://example.com/alarabiya.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CGTN" tvg-logo="https://via.placeholder.com/150x150?text=CGTN" group-title="International",CGTN (China Global Television Network)
+http://example.com/cgtn.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="TRT World" tvg-logo="https://via.placeholder.com/150x150?text=TRT" group-title="International",TRT World
+http://example.com/trt-world.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="Sky News" tvg-logo="https://via.placeholder.com/150x150?text=Sky+News" group-title="International",Sky News
+http://example.com/sky-news.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="Fox News" tvg-logo="https://via.placeholder.com/150x150?text=Fox+News" group-title="International",Fox News
+http://example.com/fox-news.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Bloomberg" tvg-logo="https://via.placeholder.com/150x150?text=Bloomberg" group-title="International",Bloomberg
+http://example.com/bloomberg.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="NBC" tvg-logo="https://via.placeholder.com/150x150?text=NBC" group-title="International",NBC
+http://example.com/nbc.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="ABC" tvg-logo="https://via.placeholder.com/150x150?text=ABC" group-title="International",ABC
+http://example.com/abc.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="CBS" tvg-logo="https://via.placeholder.com/150x150?text=CBS" group-title="International",CBS
+http://example.com/cbs.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="Discovery Channel" tvg-logo="https://via.placeholder.com/150x150?text=Discovery" group-title="International",Discovery Channel
+http://example.com/discovery.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="National Geographic" tvg-logo="https://via.placeholder.com/150x150?text=NatGeo" group-title="International",National Geographic
+http://example.com/natgeo.m3u8
+
+# === القنوات الرياضية === #
+
+#EXTINF:-1 tvg-id="26" tvg-name="Sky Sports" tvg-logo="https://via.placeholder.com/150x150?text=Sky+Sports" group-title="Sports",Sky Sports
+http://example.com/sky-sports.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="ESPN" tvg-logo="https://via.placeholder.com/150x150?text=ESPN" group-title="Sports",ESPN
+http://example.com/espn.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="BT Sport" tvg-logo="https://via.placeholder.com/150x150?text=BT+Sport" group-title="Sports",BT Sport
+http://example.com/btsport.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="Eurosport" tvg-logo="https://via.placeholder.com/150x150?text=Eurosport" group-title="Sports",Eurosport
+http://example.com/eurosport.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="DAZN" tvg-logo="https://via.placeholder.com/150x150?text=DAZN" group-title="Sports",DAZN
+http://example.com/dazn.m3u8
